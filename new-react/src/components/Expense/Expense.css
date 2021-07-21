@@ -1,0 +1,30 @@
+.expense-head{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 2%;
+    margin: 10px;
+    border-radius: 25px;
+    background-color:burlywood;
+
+  
+}
+.expense-data{
+   font-weight: bold;
+   padding-left: 19px;
+}
+.expense-price{
+    font-weight: bolder;
+    font-size: 25px;
+    background-color: cornflowerblue;
+    padding: 15px;
+    border-radius: 20px;
+}
+.expense-main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+h2{
+    margin: 0 !important;
+}

@@ -1,0 +1,11 @@
+.app-expenses{
+    width: 85%;
+    padding: 10px;
+    background-color: rgb(160, 156, 156);
+    border-radius: 10px;
+    margin: auto;
+}
+.no-data{
+    text-align: center;
+    font-weight: bold;
+}

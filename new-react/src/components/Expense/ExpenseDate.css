@@ -1,0 +1,14 @@
+.expense-date{
+    padding: 10px;
+    background-color:darkgray;
+    border-radius: 5px;
+}
+
+.date-year,.date-month{
+    font-weight: bold;
+    font-size: 15px;
+}
+.date-day{
+    font-weight: bolder;
+    font-size: 21px;
+}

@@ -1,0 +1,46 @@
+.new-expense-controls{
+    
+    padding: 16px;
+    
+    
+}
+.new-expense{
+    width: 85%;
+    margin:10px auto;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: cornflowerblue;
+}
+
+input{
+    width: 100%;
+    padding: 12px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.new-expense-submit button{
+    width: 30%;
+    background-color: cornsilk;
+    padding: 8px 0;
+    margin: 5px auto;
+    border-radius: 5px;
+}
+.new-expense-submit{
+   display: flex;
+   padding-top: 10px;
+   align-items: center;
+}
+.add-button{
+    width: 30%;
+    background-color: lightcyan;
+    padding: 10px 2px;
+    margin: 5px auto;
+    border-radius: 5px;
+}
+.add-new{
+    display: flex;
+    align-items: center;
+}
+.danger{
+    background-color: rgb(238, 147, 147);
+}
